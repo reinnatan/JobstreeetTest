@@ -18,3 +18,6 @@
 
 # for running the test just using command 
 - `dotnet test`
+
+# result testing
+![alt result](./result/result.gif)
